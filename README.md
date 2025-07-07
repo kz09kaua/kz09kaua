@@ -51,6 +51,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/seuusuario" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=b84cff"></a>
-  <a href="https://instagram.com/kz09_k" target="_blank"><img src="https://img.shields.io/badge/-Instagram-121212?style=for-the-badge&logo=instagram&logoColor=b84cff"></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-121212?style=for-the-badge&logo=instagram&logoColor=b84cff"></a>
   <a href="mailto:kauaf4316@gmail.com"><img src="https://img.shields.io/badge/-Email-121212?style=for-the-badge&logo=gmail&logoColor=b84cff"></a>
 </p>
