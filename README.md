@@ -24,7 +24,6 @@
 ![React](https://img.shields.io/badge/-React-121212?style=for-the-badge&logo=react&logoColor=b84cff)
 ![Node.js](https://img.shields.io/badge/-Node.js-121212?style=for-the-badge&logo=node.js&logoColor=b84cff)
 ![Python](https://img.shields.io/badge/-Python-121212?style=for-the-badge&logo=python&logoColor=b84cff)
-![C++](https://img.shields.io/badge/-C++-121212?style=for-the-badge&logo=c%2B%2B&logoColor=b84cff)
 ![Git](https://img.shields.io/badge/-Git-121212?style=for-the-badge&logo=git&logoColor=b84cff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-121212?style=for-the-badge&logo=visual-studio-code&logoColor=b84cff)
 
